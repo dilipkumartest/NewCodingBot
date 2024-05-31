@@ -258,3 +258,4 @@ C:\Users\dilip.kumar\Desktop\VSWorkspace\CSharpProj\obj\Debug\net8.0\refint\CSha
 C:\Users\dilip.kumar\Desktop\VSWorkspace\CSharpProj\obj\Debug\net8.0\CSharpProj.pdb
 C:\Users\dilip.kumar\Desktop\VSWorkspace\CSharpProj\obj\Debug\net8.0\CSharpProj.genruntimeconfig.cache
 C:\Users\dilip.kumar\Desktop\VSWorkspace\CSharpProj\obj\Debug\net8.0\ref\CSharpProj.dll
+C:\Users\dilip.kumar\Desktop\VSWorkspace\CSharpProj\obj\Debug\net8.0\CSharpProj.sourcelink.json

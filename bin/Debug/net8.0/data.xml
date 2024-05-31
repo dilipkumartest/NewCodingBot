@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<profile>
+        <name>Admin</name>
+</profile>
+<profile>
+        <pass>admin123</pass>
+</profile>
+</root>
